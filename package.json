@@ -1,0 +1,8 @@
+{
+  "homepage": "https://sachitha-amruth.github.io/sachitha-amruth",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    // ... your other scripts
+  }
+}
